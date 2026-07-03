@@ -1,5 +1,6 @@
 # SmartPPE AI: Real-Time Workplace Safety Detection Using YOLOv8
 
+<img width="640" height="640" alt="image40" src="https://github.com/user-attachments/assets/a458af70-a2d8-4318-ab22-acb960a2f610" />
 
 
 ## Project Overview
